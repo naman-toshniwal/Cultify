@@ -16,4 +16,4 @@ The project is organized into the following components:
 - [Naman Toshniwal](https://github.com/naman-toshniwal)
 - [Ayush Bhatt](https://github.com/AyushB21)
 - [Ketan Sharma](https://github.com/sharmaketan14)
-- [Shreyansh Negi]
+- Shreyansh Negi
